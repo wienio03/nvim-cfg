@@ -1,9 +1,6 @@
 require("wienio.plugins")
 require("wienio.setup.autopair")
-<<<<<<< HEAD
 require("wienio.setup.nvimtree")
-=======
->>>>>>> 75f9b0b24d3048a1dc2d7ec50c19d6f60802bad9
 require("wienio.setup.lspsaga")
 require("wienio.setup.null-ls")
 require("wienio.setup.toggleterm")
