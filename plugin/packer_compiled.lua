@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/home/wienio/.local/share/nvim/site/pack/packer/start/ReplaceWithRegister",
     url = "https://github.com/vim-scripts/ReplaceWithRegister"
   },
+  ["barbar.nvim"] = {
+    loaded = true,
+    path = "/home/wienio/.local/share/nvim/site/pack/packer/start/barbar.nvim",
+    url = "https://github.com/romgrk/barbar.nvim"
+  },
   ["cmp-buffer"] = {
     loaded = true,
     path = "/home/wienio/.local/share/nvim/site/pack/packer/start/cmp-buffer",
@@ -113,11 +118,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/wienio/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
-  },
-  ["indent-blankline.nvim"] = {
-    loaded = true,
-    path = "/home/wienio/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
-    url = "https://github.com/lukas-reineke/indent-blankline.nvim"
   },
   ["lspkind.nvim"] = {
     loaded = true,
@@ -188,6 +188,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/wienio/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
     url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
+  ["nvim-web-devicons"] = {
+    loaded = true,
+    path = "/home/wienio/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+    url = "https://github.com/nvim-tree/nvim-web-devicons"
   },
   ["packer.nvim"] = {
     loaded = true,

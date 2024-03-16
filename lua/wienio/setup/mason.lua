@@ -22,7 +22,7 @@ mason_lspconfig.setup({
 	ensure_installed = {
 		"clangd",
 		"lua_ls",
-		"pylsp",
+		"pyright",
 	},
 })
 
@@ -30,7 +30,5 @@ mason_null_ls.setup({
 	ensure_installed = {
 		"prettier",
 		"stylua",
-		"eslint_d",
-		"cpplint",
 	},
 })
